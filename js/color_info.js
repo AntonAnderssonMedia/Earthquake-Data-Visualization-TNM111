@@ -1,12 +1,3 @@
-/**
- *
-    Author: Kahin Akram
-    Date: Jan 24, 2020
-    TNM048 Lab 1 - Visual Information-Seeking Mantra
-    Color information file
- *
-*/
-
 //We first have to create a dataset for the circules with some information
 var circleData = [
     { "cx": 30, "cy": 30, "radius": 12, "color": "#4d4d4d", "text": "No Data available" },

@@ -1,12 +1,3 @@
-/**
- *
-    Author: Kahin Akram
-    Date: Jan 24, 2020
-    TNM048 Lab 1 - Visual Information-Seeking Mantra
-    Plotting the points file
- *
-*/
-
 //Defining scales for radius of points and the colors.
 //Colors chosen from Color Brewer Palette
 

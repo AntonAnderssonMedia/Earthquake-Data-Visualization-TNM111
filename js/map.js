@@ -1,11 +1,3 @@
-/**
- *
-    Author: Kahin Akram
-    Date: Jan 24, 2020
-    TNM048 Lab 1 - Visual Information-Seeking Mantra
-    Leaflet map file
- *
-*/
 function worldMap(data) {
 
     /**
